@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "name": mullai,
+      "email": "mullai@mail.com"
+    }
+  ],
+  "profile": {
+    "password": "passowrd"
+  }
+}
